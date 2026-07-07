@@ -1,0 +1,9 @@
+# Two Netlify sites from this one repo:
+#
+# Site 1 — entwurf-dark:
+#   Netlify → Site Settings → Build & Deploy → Publish directory: entwurf-dark
+#
+# Site 2 — entwurf-light:
+#   Netlify → Site Settings → Build & Deploy → Publish directory: entwurf-light
+#
+# No build command needed (static HTML).

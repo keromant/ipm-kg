@@ -1,0 +1,4 @@
+# Video files — serve from CDN or upload separately to Netlify/hosting
+assets/*.mp4
+assets/*.webm
+assets/*.mov
